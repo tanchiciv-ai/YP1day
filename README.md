@@ -10,8 +10,7 @@
 8. создали новую ветку и совершили переключение между ветками <br>
 <p align="left">
   <img width="400" height="250" src="https://mosopora.ru/upload/000/u1/6e/f8/2ecf7f8e.jpg">
-</p>
-<p align="right">
+
   <img width="400" height="250" src="https://avatars.mds.yandex.net/i?id=eff6e7cae86eed257db147bcc32f327830cfbd8f-16273769-images-thumbs&n=13">
 </p>
 
