@@ -9,7 +9,7 @@
 7. совершили отправку изменений на сервер и запрос изменений с сервера <br>
 8. создали новую ветку и совершили переключение между ветками <br>
 <p align="left">
-  <img width="400" height="250" src="[https://github.com/blademoon/Markdown/blob/main/Picture/cat.jpg](https://avatars.mds.yandex.net/i?id=65627296ebfbd787576dd33a678c5921c07fb357-16424221-images-thumbs&n=13)">
+  <img width="400" height="250" src="https://mosopora.ru/upload/000/u1/6e/f8/2ecf7f8e.jpg">
 </p>
 
 
